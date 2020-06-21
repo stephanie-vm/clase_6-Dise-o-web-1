@@ -8,13 +8,13 @@
     font-size: 12px;
 }*/
 /*selector descendiente*/
-p em{
+/*p em{
     color: violet;
-}
-/*selector clase*/
-/*.item {
-    color:firebrick;
 }*/
+/*selector clase*/
+.item {
+    color:firebrick;
+}
 /*selector ID*/
 /*#lista,
 .item {
