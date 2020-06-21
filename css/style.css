@@ -12,14 +12,14 @@
     color: violet;
 }*/
 /*selector clase*/
-.item {
+/*.item {
     color:firebrick;
-}
+}*/
 /*selector ID*/
-/*#lista,
+#lista,
 .item {
     color: fuchsia;
-}*/
+}
 /*selector múltiple, combinación*/
 /*h1,
 p {
