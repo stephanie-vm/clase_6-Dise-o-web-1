@@ -1,12 +1,12 @@
 /*selector universal*/
-*{
+/**{
     color: teal;
-}*
+}**/
 /*selector etiquetas*/
-/*p {
+p {
     color:tomato;
     font-size: 12px;
-}*/
+}
 /*selector descendiente*/
 /*p em{
     color: violet;
