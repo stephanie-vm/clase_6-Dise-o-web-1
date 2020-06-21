@@ -1,0 +1,31 @@
+/*selector universal*/
+*{
+    color: teal;
+}*
+/*selector etiquetas*/
+/*p {
+    color:tomato;
+    font-size: 12px;
+}*/
+/*selector descendiente*/
+/*p em{
+    color: violet;
+}*/
+/*selector clase*/
+/*.item {
+    color:firebrick;
+}*/
+/*selector ID*/
+/*#lista,
+.item {
+    color: fuchsia;
+}*/
+/*selector múltiple, combinación*/
+/*h1,
+p {
+    color: red;
+}*/
+/* Específico*/
+/*a.item {
+    color: paleturquoise;
+}*/
