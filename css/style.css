@@ -21,11 +21,11 @@
     color: fuchsia;
 }*/
 /*selector múltiple, combinación*/
-h1,
+/*h1,
 p {
     color: red;
-}
+}/*
 /* Específico*/
-/*a.item {
+a.item {
     color: paleturquoise;
-}*/
+}
