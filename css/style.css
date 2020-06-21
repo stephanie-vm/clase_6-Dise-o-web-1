@@ -16,15 +16,15 @@
     color:firebrick;
 }*/
 /*selector ID*/
-#lista,
+/*#lista,
 .item {
     color: fuchsia;
-}
+}*/
 /*selector múltiple, combinación*/
-/*h1,
+h1,
 p {
     color: red;
-}*/
+}
 /* Específico*/
 /*a.item {
     color: paleturquoise;
